@@ -1,5 +1,5 @@
 # BUDGET-BALLER-
-[Deployed Site](https://jepoy92.github.io/BUDGET-BALLER-/index.html)
+[Link to the webPage](https://aldocarrillo.github.io/HW7-TheProject1/)
 
 ## About
 Budget Baller is a site that allows you to manage your budget like a "Baller". Through the use of {{{API NAME HERE}}} and {{{API NAME HERE}}}
